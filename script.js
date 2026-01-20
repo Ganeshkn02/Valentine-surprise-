@@ -1,14 +1,18 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "No",
+"Are you sure? 🥺",
+"Really sure? I'm really sorry!",
+"But... I promised to fix everything!",
+"There is no other girl! It's only you!",
+"I promise to put in equal effort!",
+"Don't you want our future wedding?💍",
+"I won't leave you again, I promise.",
+"I'll take care of everything, just say yes!",
+"Please? for our future?",
+"Don't break my heart 💔",
+"Okay, I'm disabling this button now...",
+"Just click Yes!😤",
+    
 ];
 
 let messageIndex = 0;
