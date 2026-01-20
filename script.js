@@ -4,7 +4,7 @@ const messages = [
 "Really sure? I'm really sorry!",
 "But... I promised to fix everything!",
 "There is no other girl! It's only you!",
-"I promise to put in equal effort!",
+"I promise I'll never do tht!",
 "Don't you want our future wedding?💍",
 "I won't leave you again, I promise.",
 "I'll take care of everything, just say yes!",
